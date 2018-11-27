@@ -17,6 +17,9 @@ public class AgileTest {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("Test for agile pratical");
+        
+        //agile pratical 4
+        System.out.print("This code for pratical 4");
     }
     
 }
